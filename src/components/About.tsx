@@ -26,7 +26,7 @@ export default function About() {
             que uso para a criar aplicações web/mobile.
           </p>
           <p>
-            Meu foco é aprender novas coisas e aprimorar ainda mais as hablidade
+            Meu foco é aprender novas coisas e aprimorar ainda mais as habilidade
             que possuo, gosto sempre de estar em constante aprendizado e evoluindo
             dia após dia.
           </p>
