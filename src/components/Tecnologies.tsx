@@ -7,6 +7,7 @@ export default function Tecnologies() {
         <li>TypeScript</li>
         <li>C</li>
         <li>C++</li>
+        <li>React</li>
         <li>NextJS</li>
         <li>Git</li>
         <li>GitHub</li>
