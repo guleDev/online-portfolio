@@ -16,7 +16,7 @@ export default function Contact() {
             height={32}
             alt="Email"
           />
-          gule.dev64@gmail.com
+          gulepampu@gmail.com
         </li>
         <li >
           <Link href={"https://wa.me/5541991957888"} target="_blank" className="flex gap-4 p-2">

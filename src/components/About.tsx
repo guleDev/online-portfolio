@@ -22,7 +22,7 @@ export default function About() {
           </p>
           <p>
             Atualmente, além da faculdade, estou estudando linguagens/frameworks
-            como: JavaScript, TypeScript, React, NextJS entre outras tecnologias
+            como: JavaScript, TypeScript, React, C++ entre outras tecnologias
             que uso para a criar aplicações web/mobile.
           </p>
           <p>
