@@ -16,7 +16,7 @@ export default function Projects() {
           />
           <Link
             href={"https://gule-habit-manager.vercel.app/"}
-            className="bg-primary-green text-xl rounded-full py-2 px-4 shadow-lg shadow-neutral-800"
+            className="bg-green-600 text-xl rounded-full py-2 px-4 shadow-lg hover:bg-green-700"
           >
             meta.diária
           </Link>

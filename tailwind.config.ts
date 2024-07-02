@@ -22,7 +22,7 @@ const config: Config = {
     require("tailwind-typewriter")({ /*https://github.com/mattpfeffer/tailwind-typewriter*/
       wordsets: {
         presentation: {
-          words: ["<Web Developer />", "<Front-end Developer />"],
+          words: ["<Web Developer />", "<Front-end Developer />", "<Developer >"],
           delay: 0.3,
           writeSpeed: 0.1,
           eraseSpeed: 0.2,
